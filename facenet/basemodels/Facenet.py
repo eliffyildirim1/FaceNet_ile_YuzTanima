@@ -537,7 +537,7 @@ def loadModel():
 	
 	home = str(Path.home())
 	
-	if os.path.isfile(home+'/Desktop/Facenet/weights/facenet_weights.h5') != True:
+	if os.path.isfile(home+'/Desktop/Facenet/facenet_weights.h5') != True:
 		print("facenet_weights.h5 will be downloaded...")
 		
 		url = 'https://drive.google.com/uc?id=1971Xk5RwedbudGgTIrGAL4F7Aifu7id1'

@@ -14,6 +14,8 @@ FaceNet, mesafelerin doğrudan yüz benzerliğinin ölçüsüne karşılık geld
 
 #### Yüz tanıma işlemi farklı modellerde de yapılabilir(VGG_face, OpenFace..) 
 
+## Weights dosyasını indirme
+* https://gofile.io/d/i4egl7
 
 ## Projenin Çalıştırılması
 
